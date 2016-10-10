@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2014"
         version   = "3.1.2">
-    <name>Moodle Mobile</name>
+    <name>Cabacademie</name>
 
     <description>
-        Moodle Mobile official app
+        Cabacademie Mobile official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
